@@ -6,7 +6,7 @@ The ViA program aims to provide an effective means for quantifying viral abundan
 
 The materials from the case study featured in the manuscript including microscopy images and suggested analyses are included in the 'Case Studies' folder within this repository. 
 
-**The case study include images from**
+**The case study includes images from**
 1) *Emiliania huxleyi* viruses (EhV)
 
 ## How to install and run programs
