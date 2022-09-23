@@ -2,7 +2,7 @@
 ViA is a MATLAB-based, open-source program for analyzing epifluorescence microscopy images of viral particles. The program can be run through MATLAB (on a Mac or PC) or can be downloaded as executable and run through the freely available MATLAB runtime environment.
 
 ## Overview of Program and Case Studies
-The ViA program aims to provide an effective means for quantifying viral abundances from epifluorescence images as well as enumerating the intensity of a primary (e.g., SYBR Gold) and secondary stain (e.g., biorthogonal non-canonical amino acid tagging [BONCAT] or fluorescence in-situ hybridization [FISH]). The program enables the user to export data in easy-to-use formats, facilitating downstream analysis. You can find an overview of the functionality of the ViA program here [LINK TO BIORX].
+The ViA program aims to provide an effective means for quantifying viral abundances from epifluorescence images as well as enumerating the intensity of a primary (e.g., SYBR Gold) and secondary stain (e.g., biorthogonal non-canonical amino acid tagging [BONCAT] or fluorescence in-situ hybridization [FISH]). The program enables the user to export data in easy-to-use formats, facilitating downstream analysis.
 
 The materials from the case study featured in the manuscript including microscopy images and suggested analyses are included in the 'Case Studies' folder within this repository. 
 
